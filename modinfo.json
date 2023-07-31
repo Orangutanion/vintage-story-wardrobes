@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "vswardrobes",
+  "name": "vswardrobes",
+  "authors": ["Unknown"],
+  "description": "To be added",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}
